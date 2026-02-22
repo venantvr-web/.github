@@ -6,12 +6,6 @@ Projets web, extensions VS Code, qualité CSS, analytics et portfolios — sous 
 
 ### Sites et portfolios
 
-**`html.chartres.info`** <sup>privé</sup>
-*Vue 3 / PrimeVue / Tailwind* — Site principal Hack Your Domain : Vue 3, PrimeVue, Tailwind CSS, Markdown rendu côté client, sanitize-html, déployé sur Cloudflare Workers.
-
-**`login.chartres.info`** <sup>privé</sup>
-*JavaScript / Cloudflare Workers* — Service d'authentification edge : endpoints login/logout, gestion de sessions sur Cloudflare Workers.
-
 **`Html.Portfolio`** <sup>privé</sup>
 *HTML / Bootstrap* — Portfolio statique PWA : service worker, données structurées Schema.org (JSON-LD), microdata, design responsive.
 
