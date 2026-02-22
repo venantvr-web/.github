@@ -1,6 +1,6 @@
 # venantvr.web
 
-Projets web, extensions VSCode, qualite CSS, analytics et portfolios.
+Projets web, extensions VSCode, qualité CSS, analytics et portfolios.
 
 ## Repos
 
@@ -14,22 +14,22 @@ Projets web, extensions VSCode, qualite CSS, analytics et portfolios.
 | `html.chartres.info` | Vue | Site principal |
 | `login.chartres.info` | JavaScript | Service d'authentification |
 
-### Qualite web et SEO
+### Qualité web et SEO
 
 | Repo | Stack | Description |
 |------|-------|-------------|
 | `NodeJS.CSS.Extractor` | Node | Extraction automatique de CSS critique |
-| `NodeJS.CSS.Refactoring` | TypeScript | Plateforme de monitoring CSS temps reel avec dashboard Vue.js |
-| `vuejs.lighthouse.llm` | Vue | Analyse Lighthouse augmentee par LLM |
+| `NodeJS.CSS.Refactoring` | TypeScript | Plateforme de monitoring CSS temps réel avec dashboard Vue.js |
+| `vuejs.lighthouse.llm` | Vue | Analyse Lighthouse augmentée par LLM |
 | `Python.Google.Analytics` | Python | Pipeline d'audit GA4 avec diagnostics IA |
 
-### Outillage developpeur
+### Outillage développeur
 
 | Repo | Stack | Description |
 |------|-------|-------------|
 | `vuejs.github.llm` | Vue | Outils de prompts GitHub + LLM |
 | `vuejs.phpstan.gui` | Vue | Interface graphique PHPStan |
-| `vuejs.holon` | Vue/TypeScript | Modelisation d'architectures holoniques (canvas infini, nesting illimite) |
+| `vuejs.holon` | Vue/TypeScript | Modélisation d'architectures holoniques (canvas infini, nesting illimité) |
 | `typescript-vscode-interface` | TypeScript | Extension VSCode WebSocket |
 | `typescript-vscode-paster` | TypeScript | Extension VSCode paste + LLM |
 
@@ -37,7 +37,7 @@ Projets web, extensions VSCode, qualite CSS, analytics et portfolios.
 
 | Repo | Stack | Description |
 |------|-------|-------------|
-| `nodejs.telegram.aggregator` | Node | Aggregateur de messages Telegram |
+| `nodejs.telegram.aggregator` | Node | Agrégateur de messages Telegram |
 
 ## Stack
 
