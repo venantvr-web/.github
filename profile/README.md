@@ -53,6 +53,9 @@ Projets web, extensions VS Code, qualité CSS, analytics et portfolios — sous 
 
 ## Stack
 
+[![Stack](https://skillicons.dev/icons?i=vue,html,css,js,bootstrap,docker,nginx,git&theme=dark)](https://skillicons.dev)
+
+
 - **Vue.js 3** + **TypeScript** + **Tailwind CSS** pour les frontends
 - **Node.js** + **Express** pour les backends et outils CLI
 - **Python** pour l'analytics (GA4, Gemini)
